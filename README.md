@@ -26,7 +26,7 @@ que sustituí por:
 
 Listo
 
-#Ejecución
+## Ejecución
 
 El ejecutar main.py por primera vez tardará un poco ya que vosk descarga el modelo de reconocimiento en el idioma que le indique (ver su [documentación sobre sus lenguajes](https://alphacephei.com/vosk/models)), avisará cuando termine de cargar mediante una notificación de windows y empezara a reconocer voz.
 
@@ -44,7 +44,7 @@ Modelo de lenguaje: ¿Por qué los programadores prefieren el café frío? ¡Por
 User: necesito que vayas a descansar así que entra en modo suspensión `la palabra descansar desactivará el modo escucha después de realizar esta consulta`
 Modelo de lenguaje: Entendido, Alejandro. Adios por ahora.  Despertando cuando lo necesites.
 
-Sources:
+## Sources:
 Conexion con LM
 *https://www.youtube.com/watch?v=_XSoh4tdwG8
 Voz a texto
