@@ -8,12 +8,12 @@ En el archivo *elena.py* se debe modificar *api_key* y *base_url* por los que ot
 
 Una vez guardado esto, instala las librerias que te hagan falta y/o borra las que no quieras usar así como sus implementaciones:
 
-*openai
-*pyaudio
-*json 
-*vosk 
-*pyttsx3 
-*winotify 
+* openai
+* pyaudio
+* json 
+* vosk 
+* pyttsx3 
+* winotify 
 
 >[!Error con PyAudio]
    >
@@ -46,8 +46,8 @@ Modelo de lenguaje: Entendido, Alejandro. Adios por ahora.  Despertando cuando l
 
 ## Sources:
 Conexion con LM
-*https://www.youtube.com/watch?v=_XSoh4tdwG8
+* https://www.youtube.com/watch?v=_XSoh4tdwG8
 Voz a texto
-*https://medium.com/@nimritakoul01/offline-speech-to-text-in-python-f5d6454ecd02
+* https://medium.com/@nimritakoul01/offline-speech-to-text-in-python-f5d6454ecd02
 texto a voz
-*https://pypi.org/project/pyttsx3/
+* https://pypi.org/project/pyttsx3/
