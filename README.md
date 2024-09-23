@@ -45,9 +45,7 @@ Ejemplo de interacciones:
 * Modelo de lenguaje: Entendido, Alejandro. Adios por ahora.  Despertando cuando lo necesites.
 
 ## Sources:
-Conexion con LM
-* https://www.youtube.com/watch?v=_XSoh4tdwG8
-Voz a texto
-* https://medium.com/@nimritakoul01/offline-speech-to-text-in-python-f5d6454ecd02
-texto a voz
-* https://pypi.org/project/pyttsx3/
+
+* Conexion con LM https://www.youtube.com/watch?v=_XSoh4tdwG8
+* Voz a texto https://medium.com/@nimritakoul01/offline-speech-to-text-in-python-f5d6454ecd02
+* Texto a voz https://pypi.org/project/pyttsx3/
