@@ -1,7 +1,7 @@
 # VozAI
 
 
-##SetUP
+## SetUP
 Se debe tener instalado *LM studio* u *OLLAMA* y un servidor local con algún modelo de lenguaje corriendo (esto está muy bien explicado en el video de Facundo: *[Corengia CREA Tu Propio Servidor de IA FACIL Y GRATIS | LM Studio y Ollama En Español](https://www.youtube.com/watch?v=_XSoh4tdwG8)
 En el archivo *elena.py* se debe modificar *api_key* y *base_url* por los que otorgue el panel de control de lm studio u Ollama, la variable *descripcion* es donde daremos un promp base al modelo de lenguaje.
 
