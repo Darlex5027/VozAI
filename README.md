@@ -37,12 +37,12 @@ para que el modelo de lenguaje deje de escuchar deberá hacer una ultima consult
 
 Ejemplo de interacciones:
 
-User: Asistente estás ahí? `la palabra asistente activará el modo escucha`
-Modelo de lenguaje: Sí, Alejandro, estoy aquí. ¿Cómo puedo ayudarte?
-User: cuentame un chiste `Ya no se necesita decir su nombre porque está en modo escucha`
-Modelo de lenguaje: ¿Por qué los programadores prefieren el café frío? ¡Porque les gusta el código caliente!
-User: necesito que vayas a descansar así que entra en modo suspensión `la palabra descansar desactivará el modo escucha después de realizar esta consulta`
-Modelo de lenguaje: Entendido, Alejandro. Adios por ahora.  Despertando cuando lo necesites.
+* User: Asistente estás ahí? `la palabra asistente activará el modo escucha`
+* Modelo de lenguaje: Sí, Alejandro, estoy aquí. ¿Cómo puedo ayudarte?
+* User: cuentame un chiste `Ya no se necesita decir su nombre porque está en modo escucha`
+* Modelo de lenguaje: ¿Por qué los programadores prefieren el café frío? ¡Porque les gusta el código caliente!
+* User: necesito que vayas a descansar así que entra en modo suspensión `la palabra descansar desactivará el modo escucha después de realizar esta consulta`
+* Modelo de lenguaje: Entendido, Alejandro. Adios por ahora.  Despertando cuando lo necesites.
 
 ## Sources:
 Conexion con LM
